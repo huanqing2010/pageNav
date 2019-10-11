@@ -4,6 +4,7 @@ $(document).ready(function(){
 		//  date: 2014-04-15
 		//  todo: 边缘需要优化
 		// test for git in eclipse
+		// test for git branch
 		
 		var domEle = "body";			// .class  or  #id  or tagname, but 
 
